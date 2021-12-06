@@ -20,3 +20,4 @@ Pixray can be run in Docker using [Cog](https://github.com/replicate/cog).
 First, [install Docker and Cog](https://github.com/replicate/cog#install), then you can use `cog run` to run Pixray inside Docker. For example: 
 
     cog run python pixray.py --drawer=pixel --prompt=sunrise --output myfile.png
+.
